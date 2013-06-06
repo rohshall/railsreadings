@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  device_mac_addr: MyString
+  value: MyString
+
+two:
+  device_mac_addr: MyString
+  value: MyString
